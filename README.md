@@ -13,7 +13,3 @@ An online service may auto generate ASDoc for Sunform packages that have been sh
 The Sunform API supports bitmaps with alpha channel, shapes, effects, transforms, and more, in a display list tree. The display list is normally 2D; for a GPU sublayer, use the Display 3D API.
 
 The Sunform Builder app enables creation of multi-media applications through an incorporated code editor and provides several interfaces such as for debugging and publishing an app.
-
-## Resources
-
-* [AS3Parser](https://crates.io/crates/as3_parser) (AS3, MXML, CSS3 subset)
