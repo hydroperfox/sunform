@@ -20,4 +20,8 @@ The MXML compiler generates a WebAssembly module.
 
 ## Sunform implementation
 
-Most ofthe Sunform SDK components are implemented in the Rust language, including the MXML compiler.
+Most of the Sunform SDK components are implemented in the Rust language, including the MXML compiler.
+
+## WebAssembly runtime
+
+The Sunform platform contains a WebAssembly runtime which evaluates the ActionScript 3 program.
