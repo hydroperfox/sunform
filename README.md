@@ -1,4 +1,4 @@
-# Sunform
+![Banner](banner.png)
 
 Sunform is a multi-media framework that supports ActionScript 3 as the main scripting language.
 
