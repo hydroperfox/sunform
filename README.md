@@ -17,3 +17,7 @@ The Sunform Builder app enables creation of multi-media applications through an 
 ## MXML compiler
 
 The MXML compiler generates a WebAssembly module.
+
+## Sunform implementation
+
+Most ofthe Sunform SDK components are implemented in the Rust language, including the MXML compiler.
