@@ -10,7 +10,7 @@ The Sunform SDK contains a flexible package manager which the MXML compiler is o
 
 The Sunform API defines several closely-related programming interfaces, such as for 2D display objects, RGBA bitmap manipulations, 3D vertices-indices display capabilities, sound capabilities (speaker, microphone), geometry calculus and manipulations, network capabilities (HTTP, HTTPS, WS, WSS, FTP), fundamental programming interfaces, localization, internationalization, video capabilities (camera, screen), security capabilities (cryptography), system capabilities, desktop capabilities, mobile capabilities, touchscreen capabilities, keyboard capabilities, mouse capabilities, and utilities.
 
-* Display objects: registration point X and registration point Y: used when positioning, scaling, skewing, or rotating.
+* Display objects: registration point X (percent) and registration point Y (percent): used when positioning, scaling, skewing, or rotating.
 
 The Sunform Designer application enables creation of multimedia applications through an incorporated code editor and provides several interfaces such as for debugging and publishing an app.
 
