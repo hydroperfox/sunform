@@ -1,18 +1,16 @@
 ![Banner](banner.png)
 
-Sunform is a multi-media framework that supports ActionScript 3 as the main scripting language.
+Sunform is a multimedia framework that supports ActionScript 3 as the main scripting language.
 
 The Sunform SDK contains a MXML compiler that compiles ActionScript 3 and MXML. MXML files describe GUI components tied to an ActionScript 3 package.
 
 * ASDoc is a tool used for generating HTML documentation from ActionScript 3 code.
 
-The Sunform SDK contains a flexible package manager which the MXML compiler is oriented to, which is able to create new projects through easy commands, build, debug, test units, share, generate ASDoc, and more.
+The Sunform SDK contains a flexible package manager which the MXML compiler is oriented to, which is able to create, build, debug, test units, share and document projects through easy commands.
 
-An online service may auto generate ASDoc for Sunform packages that have been shared online.
+The Sunform API defines several closely-related programming interfaces, such as for 2D display objects, RGBA bitmap manipulations, 3D vertices-indices display capabilities, sound capabilities (speaker, microphone), geometry calculus and manipulations, network capabilities (HTTP, HTTPS, WS, WSS, FTP), fundamental programming interfaces, localization, internationalization, video capabilities (camera, screen), security capabilities (cryptography), system capabilities, desktop capabilities, mobile capabilities, touchscreen capabilities, keyboard capabilities, mouse capabilities, and utilities.
 
-The Sunform API supports bitmaps with alpha channel, shapes, effects, transforms, and more, in a display list tree. The display list is normally 2D; for a GPU sublayer, use the Display 3D API.
-
-The Sunform Designer app enables creation of multi-media applications through an incorporated code editor and provides several interfaces such as for debugging and publishing an app.
+The Sunform Designer application enables creation of multimedia applications through an incorporated code editor and provides several interfaces such as for debugging and publishing an app.
 
 ## MXML compiler
 
